@@ -1,0 +1,115 @@
+
+
+#con_helmet{
+    
+    background-color: rgb(139, 27, 27);
+}
+
+#img_helmet{
+   
+   background-color: blue;
+
+}
+
+header{
+    font-size:100px;
+    clear: both;
+    
+}
+
+
+
+.agrupar{
+  
+   
+   border:solid red 1px;
+   margin-bottom: 0px;
+}
+
+.test-text{
+    border:solid red 1px;
+}
+
+.img-adaptadas{
+    
+    height: 100%;
+    
+    border:solid red 1px;
+}
+
+#logo-inicio{
+    
+    
+     
+   border:solid blue 1px;
+ 
+
+
+}
+
+p{
+    padding: 0px;
+}
+
+#inicio-logo img{
+
+}
+.elementos-inicio-logo{
+   
+    border:solid red 1px;
+    height: 50px;
+   display: block;
+
+}
+#inicio_fondo {
+  
+background: url("imgInicio2.jpg") ;
+
+
+
+background-size: cover;
+
+height:577px;
+
+
+}
+
+
+
+.lista{
+    background-color:red;
+}
+
+.navegacion li{
+    list-style:none;
+    
+    display:inline-block;
+    /* border: red 1px solid; */
+    font-family: Arial,Helvetica,sans-serif;
+    color: #DFD8D8;
+    font-size:15px;
+    margin:0px 25px;
+    
+   
+    
+    
+}
+
+.navegacion ul{
+       list-style-type:none;
+       /* border:black 1px solid; */
+/*alinear los elemnetos de un contenedor padre */
+       
+/* fin */
+       
+       
+       
+}
+
+
+#navegacion  {
+    display: flex;
+    justify-content:center;
+background-color: #302D2D;
+
+}
